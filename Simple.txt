@@ -1,0 +1,17 @@
+PAGE
+http://A.html
+My dog has fleas.
+http://B.html
+http://C.html
+PAGE
+http://B.html
+My cat has hairballs.
+http://C.html
+PAGE
+http://C.html
+My dog has earmites, but my cat has a tapeworm.
+http://A.html
+PAGE
+http://D.html
+I do not like pets.
+http://C.html
